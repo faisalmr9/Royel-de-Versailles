@@ -50,7 +50,7 @@
         animateIn: 'fadeIn',
         smartSpeed: 1500,
         autoHeight: false,
-        autoplay: false,
+        autoplay: true,
         mouseDrag: false
     });
 
@@ -65,7 +65,7 @@
         variableWidth: true,
         centerMode: true,
         focusOnSelect: true,
-        autoplay: false,
+        autoplay: true,
         responsive: [
             {
                 breakpoint: 768,
@@ -95,7 +95,7 @@
         variableWidth: true,
         centerMode: true,
         focusOnSelect: true,
-        autoplay: false,
+        autoplay: true,
         responsive: [
             {
                 breakpoint: 768,
